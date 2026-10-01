@@ -1,0 +1,9 @@
+body {
+    background-color: lightgray !important;
+}
+
+.card {
+    margin-top: 0.75%;
+    margin-bottom: 0.75%;
+    background-color: darkgray !important;
+}
